@@ -1,0 +1,7 @@
+--use test
+--insert into test values(1,'abc','dfg@ok','abc house')
+--insert into test values(2,'rinu','dfg@oksbi','rinhouse')
+--insert into test values(3,'vinu','youtube','nest')
+--insert into test values(4,'manu','paramoun','oldvillage');
+--insert into test values(5,'isha','ishagmail','ira house')
+select * from test
